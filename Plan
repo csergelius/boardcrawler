@@ -1,0 +1,6 @@
+Original project will consist of two components.
+1. Crawler specifically designed to efficiently crawl anonymous messageboards
+2. Parser to turn threads and posts into sql data
+
+Libraries intended to be used:
+Curl
